@@ -40,8 +40,7 @@ This project aims to develop an end-to-end **Customer Churn Prediction System** 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Churn-Prediction.git
-   cd Customer-Churn-Prediction
+   git clone https://github.com/itstalmeez/customer_churn_prediction_and_retention_strategy_using_ml
    ```
 2. Create and activate a virtual environment:
    ```bash
